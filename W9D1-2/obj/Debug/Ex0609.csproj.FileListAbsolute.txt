@@ -1,0 +1,23 @@
+D:\C#2022\CH06\Ex0609\bin\Debug\Ex0609.exe.config
+D:\C#2022\CH06\Ex0609\bin\Debug\Ex0609.exe
+D:\C#2022\CH06\Ex0609\bin\Debug\Ex0609.pdb
+D:\C#2022\CH06\Ex0609\obj\Debug\Ex0609.csproj.AssemblyReference.cache
+D:\C#2022\CH06\Ex0609\obj\Debug\Ex0609.csproj.SuggestedBindingRedirects.cache
+D:\C#2022\CH06\Ex0609\obj\Debug\Ex0609.csproj.CoreCompileInputs.cache
+D:\C#2022\CH06\Ex0609\obj\Debug\Ex0609.exe
+D:\C#2022\CH06\Ex0609\obj\Debug\Ex0609.pdb
+C:\Users\Administrator\Desktop\工业上位机软件\Visual C# 2022  PPT_Source\02 源代码\CH06\Ex0609\bin\Debug\Ex0609.exe.config
+C:\Users\Administrator\Desktop\工业上位机软件\Visual C# 2022  PPT_Source\02 源代码\CH06\Ex0609\bin\Debug\Ex0609.exe
+C:\Users\Administrator\Desktop\工业上位机软件\Visual C# 2022  PPT_Source\02 源代码\CH06\Ex0609\bin\Debug\Ex0609.pdb
+C:\Users\Administrator\Desktop\工业上位机软件\Visual C# 2022  PPT_Source\02 源代码\CH06\Ex0609\obj\Debug\Ex0609.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\工业上位机软件\Visual C# 2022  PPT_Source\02 源代码\CH06\Ex0609\obj\Debug\Ex0609.csproj.SuggestedBindingRedirects.cache
+C:\Users\Administrator\Desktop\工业上位机软件\Visual C# 2022  PPT_Source\02 源代码\CH06\Ex0609\obj\Debug\Ex0609.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\工业上位机软件\Visual C# 2022  PPT_Source\02 源代码\CH06\Ex0609\obj\Debug\Ex0609.exe
+C:\Users\Administrator\Desktop\工业上位机软件\Visual C# 2022  PPT_Source\02 源代码\CH06\Ex0609\obj\Debug\Ex0609.pdb
+E:\ProgramData\learn\C#\Ex0609\bin\Debug\Ex0609.exe.config
+E:\ProgramData\learn\C#\Ex0609\bin\Debug\Ex0609.exe
+E:\ProgramData\learn\C#\Ex0609\bin\Debug\Ex0609.pdb
+E:\ProgramData\learn\C#\Ex0609\obj\Debug\Ex0609.csproj.AssemblyReference.cache
+E:\ProgramData\learn\C#\Ex0609\obj\Debug\Ex0609.csproj.CoreCompileInputs.cache
+E:\ProgramData\learn\C#\Ex0609\obj\Debug\Ex0609.exe
+E:\ProgramData\learn\C#\Ex0609\obj\Debug\Ex0609.pdb

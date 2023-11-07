@@ -1,0 +1,14 @@
+E:\ProgramData\learn\C#\W6D5\W6D5\bin\Debug\net6.0\W6D5.exe
+E:\ProgramData\learn\C#\W6D5\W6D5\bin\Debug\net6.0\W6D5.deps.json
+E:\ProgramData\learn\C#\W6D5\W6D5\bin\Debug\net6.0\W6D5.runtimeconfig.json
+E:\ProgramData\learn\C#\W6D5\W6D5\bin\Debug\net6.0\W6D5.dll
+E:\ProgramData\learn\C#\W6D5\W6D5\bin\Debug\net6.0\W6D5.pdb
+E:\ProgramData\learn\C#\W6D5\W6D5\obj\Debug\net6.0\W6D5.GeneratedMSBuildEditorConfig.editorconfig
+E:\ProgramData\learn\C#\W6D5\W6D5\obj\Debug\net6.0\W6D5.AssemblyInfoInputs.cache
+E:\ProgramData\learn\C#\W6D5\W6D5\obj\Debug\net6.0\W6D5.AssemblyInfo.cs
+E:\ProgramData\learn\C#\W6D5\W6D5\obj\Debug\net6.0\W6D5.csproj.CoreCompileInputs.cache
+E:\ProgramData\learn\C#\W6D5\W6D5\obj\Debug\net6.0\W6D5.dll
+E:\ProgramData\learn\C#\W6D5\W6D5\obj\Debug\net6.0\refint\W6D5.dll
+E:\ProgramData\learn\C#\W6D5\W6D5\obj\Debug\net6.0\W6D5.pdb
+E:\ProgramData\learn\C#\W6D5\W6D5\obj\Debug\net6.0\W6D5.genruntimeconfig.cache
+E:\ProgramData\learn\C#\W6D5\W6D5\obj\Debug\net6.0\ref\W6D5.dll

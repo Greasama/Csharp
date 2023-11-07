@@ -1,0 +1,11 @@
+D:\vs  project\C# Document\6-1 -何昊泽 - 副本\Test\bin\Debug\Test.exe.config
+D:\vs  project\C# Document\6-1 -何昊泽 - 副本\Test\bin\Debug\Test.exe
+D:\vs  project\C# Document\6-1 -何昊泽 - 副本\Test\bin\Debug\Test.pdb
+D:\vs  project\C# Document\6-1 -何昊泽 - 副本\Test\obj\Debug\P2P.csproj.AssemblyReference.cache
+D:\vs  project\C# Document\6-1 -何昊泽 - 副本\Test\obj\Debug\P2P.csproj.SuggestedBindingRedirects.cache
+D:\vs  project\C# Document\6-1 -何昊泽 - 副本\Test\obj\Debug\Test.Form1.resources
+D:\vs  project\C# Document\6-1 -何昊泽 - 副本\Test\obj\Debug\Test.Properties.Resources.resources
+D:\vs  project\C# Document\6-1 -何昊泽 - 副本\Test\obj\Debug\P2P.csproj.GenerateResource.cache
+D:\vs  project\C# Document\6-1 -何昊泽 - 副本\Test\obj\Debug\P2P.csproj.CoreCompileInputs.cache
+D:\vs  project\C# Document\6-1 -何昊泽 - 副本\Test\obj\Debug\Test.exe
+D:\vs  project\C# Document\6-1 -何昊泽 - 副本\Test\obj\Debug\Test.pdb

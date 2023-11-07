@@ -1,0 +1,11 @@
+//先以Days属性获取天数，再换算成年份
+double work = (double)(jobDays.Days) / 365;
+DateTime mid = DateTime.Today;
+
+mid= new(mid.Year,mid.Month,mid.Day, mid.Hour + 12, mid.Minute,mid.Millisecond);
+jobDays = mid- DateTime.Now;
+int iHaveLastTime = jobDays.Days*24*60+  jobDays.Hours*60+jobDays.Minutes;
+WriteLine($"离下午放学时间:还有:{iHaveLastTime:n}分钟");
+
+iHaveLastTime =(int) jobDays.TotalMinutes;
+WriteLine($"离下午放学时间:还有:{iHaveLastTime:n}分钟");

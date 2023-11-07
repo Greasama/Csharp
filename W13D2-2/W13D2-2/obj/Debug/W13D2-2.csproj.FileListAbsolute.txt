@@ -1,0 +1,10 @@
+E:\ProgramData\learn\C#\W13D2-2\W13D2-2\bin\Debug\W13D2-2.exe.config
+E:\ProgramData\learn\C#\W13D2-2\W13D2-2\bin\Debug\W13D2-2.exe
+E:\ProgramData\learn\C#\W13D2-2\W13D2-2\bin\Debug\W13D2-2.pdb
+E:\ProgramData\learn\C#\W13D2-2\W13D2-2\obj\Debug\W13D2-2.csproj.AssemblyReference.cache
+E:\ProgramData\learn\C#\W13D2-2\W13D2-2\obj\Debug\W13D2_2.Form1.resources
+E:\ProgramData\learn\C#\W13D2-2\W13D2-2\obj\Debug\W13D2_2.Properties.Resources.resources
+E:\ProgramData\learn\C#\W13D2-2\W13D2-2\obj\Debug\W13D2-2.csproj.GenerateResource.cache
+E:\ProgramData\learn\C#\W13D2-2\W13D2-2\obj\Debug\W13D2-2.csproj.CoreCompileInputs.cache
+E:\ProgramData\learn\C#\W13D2-2\W13D2-2\obj\Debug\W13D2-2.exe
+E:\ProgramData\learn\C#\W13D2-2\W13D2-2\obj\Debug\W13D2-2.pdb

@@ -1,0 +1,91 @@
+D:\duweisheng\GTS例程C#版本\6-1\Test\bin\x86\Debug\Test.exe
+D:\duweisheng\GTS例程C#版本\6-1\Test\bin\x86\Debug\Test.pdb
+D:\duweisheng\GTS例程C#版本\6-1\Test\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\duweisheng\GTS例程C#版本\6-1\Test\obj\x86\Debug\Test.Form1.resources
+D:\duweisheng\GTS例程C#版本\6-1\Test\obj\x86\Debug\Test.Properties.Resources.resources
+D:\duweisheng\GTS例程C#版本\6-1\Test\obj\x86\Debug\Test.exe
+D:\duweisheng\GTS例程C#版本\6-1\Test\obj\x86\Debug\Test.pdb
+E:\工作\例程及说明：GTS-VB系列多轴运动控制器(包含VC、C#、Labview)\例程及说明：GTS-VB系列多轴运动控制器(包含VC、C#、Labview)\《GTS系列运动控制器编程手册》C#例程\6-1\Test\bin\x86\Debug\Test.exe.config
+E:\工作\例程及说明：GTS-VB系列多轴运动控制器(包含VC、C#、Labview)\例程及说明：GTS-VB系列多轴运动控制器(包含VC、C#、Labview)\《GTS系列运动控制器编程手册》C#例程\6-1\Test\bin\x86\Debug\Test.exe
+E:\工作\例程及说明：GTS-VB系列多轴运动控制器(包含VC、C#、Labview)\例程及说明：GTS-VB系列多轴运动控制器(包含VC、C#、Labview)\《GTS系列运动控制器编程手册》C#例程\6-1\Test\bin\x86\Debug\Test.pdb
+E:\工作\例程及说明：GTS-VB系列多轴运动控制器(包含VC、C#、Labview)\例程及说明：GTS-VB系列多轴运动控制器(包含VC、C#、Labview)\《GTS系列运动控制器编程手册》C#例程\6-1\Test\obj\x86\Debug\P2P.csproj.AssemblyReference.cache
+E:\工作\例程及说明：GTS-VB系列多轴运动控制器(包含VC、C#、Labview)\例程及说明：GTS-VB系列多轴运动控制器(包含VC、C#、Labview)\《GTS系列运动控制器编程手册》C#例程\6-1\Test\obj\x86\Debug\P2P.csproj.SuggestedBindingRedirects.cache
+E:\工作\例程及说明：GTS-VB系列多轴运动控制器(包含VC、C#、Labview)\例程及说明：GTS-VB系列多轴运动控制器(包含VC、C#、Labview)\《GTS系列运动控制器编程手册》C#例程\6-1\Test\obj\x86\Debug\Test.Form1.resources
+E:\工作\例程及说明：GTS-VB系列多轴运动控制器(包含VC、C#、Labview)\例程及说明：GTS-VB系列多轴运动控制器(包含VC、C#、Labview)\《GTS系列运动控制器编程手册》C#例程\6-1\Test\obj\x86\Debug\Test.Properties.Resources.resources
+E:\工作\例程及说明：GTS-VB系列多轴运动控制器(包含VC、C#、Labview)\例程及说明：GTS-VB系列多轴运动控制器(包含VC、C#、Labview)\《GTS系列运动控制器编程手册》C#例程\6-1\Test\obj\x86\Debug\P2P.csproj.GenerateResource.cache
+E:\工作\例程及说明：GTS-VB系列多轴运动控制器(包含VC、C#、Labview)\例程及说明：GTS-VB系列多轴运动控制器(包含VC、C#、Labview)\《GTS系列运动控制器编程手册》C#例程\6-1\Test\obj\x86\Debug\P2P.csproj.CoreCompileInputs.cache
+E:\工作\例程及说明：GTS-VB系列多轴运动控制器(包含VC、C#、Labview)\例程及说明：GTS-VB系列多轴运动控制器(包含VC、C#、Labview)\《GTS系列运动控制器编程手册》C#例程\6-1\Test\obj\x86\Debug\Test.exe
+E:\工作\例程及说明：GTS-VB系列多轴运动控制器(包含VC、C#、Labview)\例程及说明：GTS-VB系列多轴运动控制器(包含VC、C#、Labview)\《GTS系列运动控制器编程手册》C#例程\6-1\Test\obj\x86\Debug\Test.pdb
+E:\工作\例程及说明：GTS-VB系列多轴运动控制器(包含VC、C#、Labview)\例程及说明：GTS-VB系列多轴运动控制器(包含VC、C#、Labview)\《GTS系列运动控制器编程手册》C#例程\6-1 - 副本\Test\bin\x86\Debug\Test.exe.config
+E:\工作\例程及说明：GTS-VB系列多轴运动控制器(包含VC、C#、Labview)\例程及说明：GTS-VB系列多轴运动控制器(包含VC、C#、Labview)\《GTS系列运动控制器编程手册》C#例程\6-1 - 副本\Test\bin\x86\Debug\Test.exe
+E:\工作\例程及说明：GTS-VB系列多轴运动控制器(包含VC、C#、Labview)\例程及说明：GTS-VB系列多轴运动控制器(包含VC、C#、Labview)\《GTS系列运动控制器编程手册》C#例程\6-1 - 副本\Test\bin\x86\Debug\Test.pdb
+E:\工作\例程及说明：GTS-VB系列多轴运动控制器(包含VC、C#、Labview)\例程及说明：GTS-VB系列多轴运动控制器(包含VC、C#、Labview)\《GTS系列运动控制器编程手册》C#例程\6-1 - 副本\Test\obj\x86\Debug\P2P.csproj.AssemblyReference.cache
+E:\工作\例程及说明：GTS-VB系列多轴运动控制器(包含VC、C#、Labview)\例程及说明：GTS-VB系列多轴运动控制器(包含VC、C#、Labview)\《GTS系列运动控制器编程手册》C#例程\6-1 - 副本\Test\obj\x86\Debug\P2P.csproj.SuggestedBindingRedirects.cache
+E:\工作\例程及说明：GTS-VB系列多轴运动控制器(包含VC、C#、Labview)\例程及说明：GTS-VB系列多轴运动控制器(包含VC、C#、Labview)\《GTS系列运动控制器编程手册》C#例程\6-1 - 副本\Test\obj\x86\Debug\Test.Form1.resources
+E:\工作\例程及说明：GTS-VB系列多轴运动控制器(包含VC、C#、Labview)\例程及说明：GTS-VB系列多轴运动控制器(包含VC、C#、Labview)\《GTS系列运动控制器编程手册》C#例程\6-1 - 副本\Test\obj\x86\Debug\Test.Properties.Resources.resources
+E:\工作\例程及说明：GTS-VB系列多轴运动控制器(包含VC、C#、Labview)\例程及说明：GTS-VB系列多轴运动控制器(包含VC、C#、Labview)\《GTS系列运动控制器编程手册》C#例程\6-1 - 副本\Test\obj\x86\Debug\P2P.csproj.GenerateResource.cache
+E:\工作\例程及说明：GTS-VB系列多轴运动控制器(包含VC、C#、Labview)\例程及说明：GTS-VB系列多轴运动控制器(包含VC、C#、Labview)\《GTS系列运动控制器编程手册》C#例程\6-1 - 副本\Test\obj\x86\Debug\P2P.csproj.CoreCompileInputs.cache
+E:\工作\例程及说明：GTS-VB系列多轴运动控制器(包含VC、C#、Labview)\例程及说明：GTS-VB系列多轴运动控制器(包含VC、C#、Labview)\《GTS系列运动控制器编程手册》C#例程\6-1 - 副本\Test\obj\x86\Debug\Test.exe
+E:\工作\例程及说明：GTS-VB系列多轴运动控制器(包含VC、C#、Labview)\例程及说明：GTS-VB系列多轴运动控制器(包含VC、C#、Labview)\《GTS系列运动控制器编程手册》C#例程\6-1 - 副本\Test\obj\x86\Debug\Test.pdb
+C:\Users\Administrator\Desktop\6-1 -何昊泽\Test\bin\x86\Debug\Test.exe.config
+C:\Users\Administrator\Desktop\6-1 -何昊泽\Test\bin\x86\Debug\Test.exe
+C:\Users\Administrator\Desktop\6-1 -何昊泽\Test\bin\x86\Debug\Test.pdb
+C:\Users\Administrator\Desktop\6-1 -何昊泽\Test\obj\x86\Debug\P2P.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\6-1 -何昊泽\Test\obj\x86\Debug\Test.Form1.resources
+C:\Users\Administrator\Desktop\6-1 -何昊泽\Test\obj\x86\Debug\Test.Properties.Resources.resources
+C:\Users\Administrator\Desktop\6-1 -何昊泽\Test\obj\x86\Debug\P2P.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\6-1 -何昊泽\Test\obj\x86\Debug\P2P.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\6-1 -何昊泽\Test\obj\x86\Debug\Test.exe
+C:\Users\Administrator\Desktop\6-1 -何昊泽\Test\obj\x86\Debug\Test.pdb
+D:\vs  project\C# Document\6-1 -何昊泽\Test\bin\x86\Debug\Test.exe.config
+D:\vs  project\C# Document\6-1 -何昊泽\Test\bin\x86\Debug\Test.exe
+D:\vs  project\C# Document\6-1 -何昊泽\Test\bin\x86\Debug\Test.pdb
+D:\vs  project\C# Document\6-1 -何昊泽\Test\obj\x86\Debug\P2P.csproj.AssemblyReference.cache
+D:\vs  project\C# Document\6-1 -何昊泽\Test\obj\x86\Debug\P2P.csproj.SuggestedBindingRedirects.cache
+D:\vs  project\C# Document\6-1 -何昊泽\Test\obj\x86\Debug\Test.Form1.resources
+D:\vs  project\C# Document\6-1 -何昊泽\Test\obj\x86\Debug\Test.Properties.Resources.resources
+D:\vs  project\C# Document\6-1 -何昊泽\Test\obj\x86\Debug\P2P.csproj.GenerateResource.cache
+D:\vs  project\C# Document\6-1 -何昊泽\Test\obj\x86\Debug\P2P.csproj.CoreCompileInputs.cache
+D:\vs  project\C# Document\6-1 -何昊泽\Test\obj\x86\Debug\Test.exe
+D:\vs  project\C# Document\6-1 -何昊泽\Test\obj\x86\Debug\Test.pdb
+D:\vs  project\C# Document\6-1 -何昊泽 - 副本\Test\bin\x86\Debug\Test.exe.config
+D:\vs  project\C# Document\6-1 -何昊泽 - 副本\Test\bin\x86\Debug\Test.exe
+D:\vs  project\C# Document\6-1 -何昊泽 - 副本\Test\bin\x86\Debug\Test.pdb
+D:\vs  project\C# Document\6-1 -何昊泽 - 副本\Test\obj\x86\Debug\P2P.csproj.AssemblyReference.cache
+D:\vs  project\C# Document\6-1 -何昊泽 - 副本\Test\obj\x86\Debug\P2P.csproj.SuggestedBindingRedirects.cache
+D:\vs  project\C# Document\6-1 -何昊泽 - 副本\Test\obj\x86\Debug\Test.Form1.resources
+D:\vs  project\C# Document\6-1 -何昊泽 - 副本\Test\obj\x86\Debug\Test.Properties.Resources.resources
+D:\vs  project\C# Document\6-1 -何昊泽 - 副本\Test\obj\x86\Debug\P2P.csproj.GenerateResource.cache
+D:\vs  project\C# Document\6-1 -何昊泽 - 副本\Test\obj\x86\Debug\P2P.csproj.CoreCompileInputs.cache
+D:\vs  project\C# Document\6-1 -何昊泽 - 副本\Test\obj\x86\Debug\Test.exe
+D:\vs  project\C# Document\6-1 -何昊泽 - 副本\Test\obj\x86\Debug\Test.pdb
+G:\software\Hehaoze\6-1 -何昊泽 - 副本(1)\Test\bin\x86\Debug\Test.exe.config
+G:\software\Hehaoze\6-1 -何昊泽 - 副本(1)\Test\bin\x86\Debug\Test.exe
+G:\software\Hehaoze\6-1 -何昊泽 - 副本(1)\Test\bin\x86\Debug\Test.pdb
+G:\software\Hehaoze\6-1 -何昊泽 - 副本(1)\Test\obj\x86\Debug\P2P.csproj.AssemblyReference.cache
+G:\software\Hehaoze\6-1 -何昊泽 - 副本(1)\Test\obj\x86\Debug\Test.Form1.resources
+G:\software\Hehaoze\6-1 -何昊泽 - 副本(1)\Test\obj\x86\Debug\Test.Properties.Resources.resources
+G:\software\Hehaoze\6-1 -何昊泽 - 副本(1)\Test\obj\x86\Debug\P2P.csproj.GenerateResource.cache
+G:\software\Hehaoze\6-1 -何昊泽 - 副本(1)\Test\obj\x86\Debug\P2P.csproj.CoreCompileInputs.cache
+G:\software\Hehaoze\6-1 -何昊泽 - 副本(1)\Test\obj\x86\Debug\Test.exe
+G:\software\Hehaoze\6-1 -何昊泽 - 副本(1)\Test\obj\x86\Debug\Test.pdb
+D:\6-1-3\Test\bin\x86\Debug\Test.exe.config
+D:\6-1-3\Test\bin\x86\Debug\Test.exe
+D:\6-1-3\Test\bin\x86\Debug\Test.pdb
+D:\6-1-3\Test\obj\x86\Debug\P2P.csproj.AssemblyReference.cache
+D:\6-1-3\Test\obj\x86\Debug\Test.Form1.resources
+D:\6-1-3\Test\obj\x86\Debug\Test.Properties.Resources.resources
+D:\6-1-3\Test\obj\x86\Debug\P2P.csproj.GenerateResource.cache
+D:\6-1-3\Test\obj\x86\Debug\P2P.csproj.CoreCompileInputs.cache
+D:\6-1-3\Test\obj\x86\Debug\Test.exe
+D:\6-1-3\Test\obj\x86\Debug\Test.pdb
+H:\6-1-3\Test\bin\x86\Debug\Test.exe.config
+H:\6-1-3\Test\bin\x86\Debug\Test.exe
+H:\6-1-3\Test\bin\x86\Debug\Test.pdb
+H:\6-1-3\Test\obj\x86\Debug\P2P.csproj.AssemblyReference.cache
+H:\6-1-3\Test\obj\x86\Debug\Test.Form1.resources
+H:\6-1-3\Test\obj\x86\Debug\Test.Properties.Resources.resources
+H:\6-1-3\Test\obj\x86\Debug\P2P.csproj.GenerateResource.cache
+H:\6-1-3\Test\obj\x86\Debug\P2P.csproj.CoreCompileInputs.cache
+H:\6-1-3\Test\obj\x86\Debug\Test.exe
+H:\6-1-3\Test\obj\x86\Debug\Test.pdb

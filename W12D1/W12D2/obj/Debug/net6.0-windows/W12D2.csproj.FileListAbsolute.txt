@@ -1,0 +1,16 @@
+E:\ProgramData\learn\C#\W12D1\W12D2\bin\Debug\net6.0-windows\W12D2.exe
+E:\ProgramData\learn\C#\W12D1\W12D2\bin\Debug\net6.0-windows\W12D2.deps.json
+E:\ProgramData\learn\C#\W12D1\W12D2\bin\Debug\net6.0-windows\W12D2.runtimeconfig.json
+E:\ProgramData\learn\C#\W12D1\W12D2\bin\Debug\net6.0-windows\W12D2.dll
+E:\ProgramData\learn\C#\W12D1\W12D2\bin\Debug\net6.0-windows\W12D2.pdb
+E:\ProgramData\learn\C#\W12D1\W12D2\obj\Debug\net6.0-windows\W12D2.Form1.resources
+E:\ProgramData\learn\C#\W12D1\W12D2\obj\Debug\net6.0-windows\W12D2.csproj.GenerateResource.cache
+E:\ProgramData\learn\C#\W12D1\W12D2\obj\Debug\net6.0-windows\W12D2.GeneratedMSBuildEditorConfig.editorconfig
+E:\ProgramData\learn\C#\W12D1\W12D2\obj\Debug\net6.0-windows\W12D2.AssemblyInfoInputs.cache
+E:\ProgramData\learn\C#\W12D1\W12D2\obj\Debug\net6.0-windows\W12D2.AssemblyInfo.cs
+E:\ProgramData\learn\C#\W12D1\W12D2\obj\Debug\net6.0-windows\W12D2.csproj.CoreCompileInputs.cache
+E:\ProgramData\learn\C#\W12D1\W12D2\obj\Debug\net6.0-windows\W12D2.dll
+E:\ProgramData\learn\C#\W12D1\W12D2\obj\Debug\net6.0-windows\refint\W12D2.dll
+E:\ProgramData\learn\C#\W12D1\W12D2\obj\Debug\net6.0-windows\W12D2.pdb
+E:\ProgramData\learn\C#\W12D1\W12D2\obj\Debug\net6.0-windows\W12D2.genruntimeconfig.cache
+E:\ProgramData\learn\C#\W12D1\W12D2\obj\Debug\net6.0-windows\ref\W12D2.dll

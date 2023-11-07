@@ -1,0 +1,19 @@
+x,z轴 1u 1000脉
+y轴  1u 1000脉
+xyz最大距离
+xyz最大速度 、最小速度、最理想速度
+xyz最大加速度 、最小加速度、最理想加速度
+
+ //位置清零
+GT_ZeroPos;
+清除状态
+GT_ClrSts
+取编码器数据
+GT_GetEncPos     //??????????????
+取规划数据
+GT_GetPrfPos
+读取轴状态 
+GT_GetSts
+
+
+

@@ -1,0 +1,14 @@
+E:\ProgramData\learn\C#\W6D3\decoder\obj\Debug\net6.0\decoder.GeneratedMSBuildEditorConfig.editorconfig
+E:\ProgramData\learn\C#\W6D3\decoder\obj\Debug\net6.0\decoder.AssemblyInfoInputs.cache
+E:\ProgramData\learn\C#\W6D3\decoder\obj\Debug\net6.0\decoder.AssemblyInfo.cs
+E:\ProgramData\learn\C#\W6D3\decoder\obj\Debug\net6.0\decoder.csproj.CoreCompileInputs.cache
+E:\ProgramData\learn\C#\W6D3\decoder\bin\Debug\net6.0\decoder.exe
+E:\ProgramData\learn\C#\W6D3\decoder\bin\Debug\net6.0\decoder.deps.json
+E:\ProgramData\learn\C#\W6D3\decoder\bin\Debug\net6.0\decoder.runtimeconfig.json
+E:\ProgramData\learn\C#\W6D3\decoder\bin\Debug\net6.0\decoder.dll
+E:\ProgramData\learn\C#\W6D3\decoder\bin\Debug\net6.0\decoder.pdb
+E:\ProgramData\learn\C#\W6D3\decoder\obj\Debug\net6.0\decoder.dll
+E:\ProgramData\learn\C#\W6D3\decoder\obj\Debug\net6.0\refint\decoder.dll
+E:\ProgramData\learn\C#\W6D3\decoder\obj\Debug\net6.0\decoder.pdb
+E:\ProgramData\learn\C#\W6D3\decoder\obj\Debug\net6.0\decoder.genruntimeconfig.cache
+E:\ProgramData\learn\C#\W6D3\decoder\obj\Debug\net6.0\ref\decoder.dll

@@ -1,0 +1,14 @@
+E:\ProgramData\learn\C#\W11D3HW\W11D3HW\obj\Debug\net6.0\W11D3HW.GeneratedMSBuildEditorConfig.editorconfig
+E:\ProgramData\learn\C#\W11D3HW\W11D3HW\obj\Debug\net6.0\W11D3HW.AssemblyInfoInputs.cache
+E:\ProgramData\learn\C#\W11D3HW\W11D3HW\obj\Debug\net6.0\W11D3HW.AssemblyInfo.cs
+E:\ProgramData\learn\C#\W11D3HW\W11D3HW\obj\Debug\net6.0\W11D3HW.csproj.CoreCompileInputs.cache
+E:\ProgramData\learn\C#\W11D3HW\W11D3HW\bin\Debug\net6.0\W11D3HW.exe
+E:\ProgramData\learn\C#\W11D3HW\W11D3HW\bin\Debug\net6.0\W11D3HW.deps.json
+E:\ProgramData\learn\C#\W11D3HW\W11D3HW\bin\Debug\net6.0\W11D3HW.runtimeconfig.json
+E:\ProgramData\learn\C#\W11D3HW\W11D3HW\bin\Debug\net6.0\W11D3HW.dll
+E:\ProgramData\learn\C#\W11D3HW\W11D3HW\bin\Debug\net6.0\W11D3HW.pdb
+E:\ProgramData\learn\C#\W11D3HW\W11D3HW\obj\Debug\net6.0\W11D3HW.dll
+E:\ProgramData\learn\C#\W11D3HW\W11D3HW\obj\Debug\net6.0\refint\W11D3HW.dll
+E:\ProgramData\learn\C#\W11D3HW\W11D3HW\obj\Debug\net6.0\W11D3HW.pdb
+E:\ProgramData\learn\C#\W11D3HW\W11D3HW\obj\Debug\net6.0\W11D3HW.genruntimeconfig.cache
+E:\ProgramData\learn\C#\W11D3HW\W11D3HW\obj\Debug\net6.0\ref\W11D3HW.dll

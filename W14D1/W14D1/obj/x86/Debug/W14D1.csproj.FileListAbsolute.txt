@@ -1,0 +1,11 @@
+E:\ProgramData\learn\C#\W14D1\W14D1\bin\x86\Debug\W14D1.exe.config
+E:\ProgramData\learn\C#\W14D1\W14D1\bin\x86\Debug\W14D1.exe
+E:\ProgramData\learn\C#\W14D1\W14D1\bin\x86\Debug\W14D1.pdb
+E:\ProgramData\learn\C#\W14D1\W14D1\obj\x86\Debug\W14D1.csproj.AssemblyReference.cache
+E:\ProgramData\learn\C#\W14D1\W14D1\obj\x86\Debug\W14D1.Properties.Resources.resources
+E:\ProgramData\learn\C#\W14D1\W14D1\obj\x86\Debug\W14D1.csproj.GenerateResource.cache
+E:\ProgramData\learn\C#\W14D1\W14D1\obj\x86\Debug\W14D1.csproj.CoreCompileInputs.cache
+E:\ProgramData\learn\C#\W14D1\W14D1\obj\x86\Debug\W14D1.exe
+E:\ProgramData\learn\C#\W14D1\W14D1\obj\x86\Debug\W14D1.pdb
+E:\ProgramData\learn\C#\W14D1\W14D1\obj\x86\Debug\W14D1.CurveControl.resources
+E:\ProgramData\learn\C#\W14D1\W14D1\obj\x86\Debug\W14D1.MainForm.resources

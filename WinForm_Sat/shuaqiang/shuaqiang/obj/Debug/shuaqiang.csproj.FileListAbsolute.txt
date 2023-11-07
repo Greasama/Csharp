@@ -1,0 +1,11 @@
+E:\ProgramData\learn\C#\shuaqiang\shuaqiang\shuaqiang\bin\Debug\shuaqiang.exe.config
+E:\ProgramData\learn\C#\shuaqiang\shuaqiang\shuaqiang\bin\Debug\shuaqiang.exe
+E:\ProgramData\learn\C#\shuaqiang\shuaqiang\shuaqiang\bin\Debug\shuaqiang.pdb
+E:\ProgramData\learn\C#\shuaqiang\shuaqiang\shuaqiang\obj\Debug\shuaqiang.csproj.AssemblyReference.cache
+E:\ProgramData\learn\C#\shuaqiang\shuaqiang\shuaqiang\obj\Debug\shuaqiang.Properties.Resources.resources
+E:\ProgramData\learn\C#\shuaqiang\shuaqiang\shuaqiang\obj\Debug\shuaqiang.csproj.GenerateResource.cache
+E:\ProgramData\learn\C#\shuaqiang\shuaqiang\shuaqiang\obj\Debug\shuaqiang.csproj.CoreCompileInputs.cache
+E:\ProgramData\learn\C#\shuaqiang\shuaqiang\shuaqiang\obj\Debug\shuaqiang.exe
+E:\ProgramData\learn\C#\shuaqiang\shuaqiang\shuaqiang\obj\Debug\shuaqiang.pdb
+E:\ProgramData\learn\C#\shuaqiang\shuaqiang\shuaqiang\obj\Debug\shuaqiang.Main.resources
+E:\ProgramData\learn\C#\shuaqiang\shuaqiang\shuaqiang\obj\Debug\shuaqiang.CHIOCE.resources

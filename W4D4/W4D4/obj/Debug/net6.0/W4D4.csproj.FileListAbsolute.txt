@@ -1,0 +1,15 @@
+E:\ProgramData\learn\C#\W4D4\W4D4\bin\Debug\net6.0\W4D4.exe
+E:\ProgramData\learn\C#\W4D4\W4D4\bin\Debug\net6.0\W4D4.deps.json
+E:\ProgramData\learn\C#\W4D4\W4D4\bin\Debug\net6.0\W4D4.runtimeconfig.json
+E:\ProgramData\learn\C#\W4D4\W4D4\bin\Debug\net6.0\W4D4.dll
+E:\ProgramData\learn\C#\W4D4\W4D4\bin\Debug\net6.0\W4D4.pdb
+E:\ProgramData\learn\C#\W4D4\W4D4\obj\Debug\net6.0\W4D4.csproj.AssemblyReference.cache
+E:\ProgramData\learn\C#\W4D4\W4D4\obj\Debug\net6.0\W4D4.GeneratedMSBuildEditorConfig.editorconfig
+E:\ProgramData\learn\C#\W4D4\W4D4\obj\Debug\net6.0\W4D4.AssemblyInfoInputs.cache
+E:\ProgramData\learn\C#\W4D4\W4D4\obj\Debug\net6.0\W4D4.AssemblyInfo.cs
+E:\ProgramData\learn\C#\W4D4\W4D4\obj\Debug\net6.0\W4D4.csproj.CoreCompileInputs.cache
+E:\ProgramData\learn\C#\W4D4\W4D4\obj\Debug\net6.0\W4D4.dll
+E:\ProgramData\learn\C#\W4D4\W4D4\obj\Debug\net6.0\refint\W4D4.dll
+E:\ProgramData\learn\C#\W4D4\W4D4\obj\Debug\net6.0\W4D4.pdb
+E:\ProgramData\learn\C#\W4D4\W4D4\obj\Debug\net6.0\W4D4.genruntimeconfig.cache
+E:\ProgramData\learn\C#\W4D4\W4D4\obj\Debug\net6.0\ref\W4D4.dll

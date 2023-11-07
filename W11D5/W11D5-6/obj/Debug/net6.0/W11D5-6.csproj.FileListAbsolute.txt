@@ -1,0 +1,14 @@
+E:\ProgramData\learn\C#\W11D5\W11D5-6\bin\Debug\net6.0\W11D5-6.exe
+E:\ProgramData\learn\C#\W11D5\W11D5-6\bin\Debug\net6.0\W11D5-6.deps.json
+E:\ProgramData\learn\C#\W11D5\W11D5-6\bin\Debug\net6.0\W11D5-6.runtimeconfig.json
+E:\ProgramData\learn\C#\W11D5\W11D5-6\bin\Debug\net6.0\W11D5-6.dll
+E:\ProgramData\learn\C#\W11D5\W11D5-6\bin\Debug\net6.0\W11D5-6.pdb
+E:\ProgramData\learn\C#\W11D5\W11D5-6\obj\Debug\net6.0\W11D5-6.GeneratedMSBuildEditorConfig.editorconfig
+E:\ProgramData\learn\C#\W11D5\W11D5-6\obj\Debug\net6.0\W11D5-6.AssemblyInfoInputs.cache
+E:\ProgramData\learn\C#\W11D5\W11D5-6\obj\Debug\net6.0\W11D5-6.AssemblyInfo.cs
+E:\ProgramData\learn\C#\W11D5\W11D5-6\obj\Debug\net6.0\W11D5-6.csproj.CoreCompileInputs.cache
+E:\ProgramData\learn\C#\W11D5\W11D5-6\obj\Debug\net6.0\W11D5-6.dll
+E:\ProgramData\learn\C#\W11D5\W11D5-6\obj\Debug\net6.0\refint\W11D5-6.dll
+E:\ProgramData\learn\C#\W11D5\W11D5-6\obj\Debug\net6.0\W11D5-6.pdb
+E:\ProgramData\learn\C#\W11D5\W11D5-6\obj\Debug\net6.0\W11D5-6.genruntimeconfig.cache
+E:\ProgramData\learn\C#\W11D5\W11D5-6\obj\Debug\net6.0\ref\W11D5-6.dll

@@ -1,0 +1,10 @@
+E:\ProgramData\learn\C#\W12D3\W12D3\bin\Debug\W12D3.exe.config
+E:\ProgramData\learn\C#\W12D3\W12D3\bin\Debug\W12D3.exe
+E:\ProgramData\learn\C#\W12D3\W12D3\bin\Debug\W12D3.pdb
+E:\ProgramData\learn\C#\W12D3\W12D3\obj\Debug\W12D3.csproj.AssemblyReference.cache
+E:\ProgramData\learn\C#\W12D3\W12D3\obj\Debug\W12D3.Form1.resources
+E:\ProgramData\learn\C#\W12D3\W12D3\obj\Debug\W12D3.Properties.Resources.resources
+E:\ProgramData\learn\C#\W12D3\W12D3\obj\Debug\W12D3.csproj.GenerateResource.cache
+E:\ProgramData\learn\C#\W12D3\W12D3\obj\Debug\W12D3.csproj.CoreCompileInputs.cache
+E:\ProgramData\learn\C#\W12D3\W12D3\obj\Debug\W12D3.exe
+E:\ProgramData\learn\C#\W12D3\W12D3\obj\Debug\W12D3.pdb

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34003.232
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "W13D1-cameraconnect", "W13D1-cameraconnect\W13D1-cameraconnect.csproj", "{26A3E295-11AD-4CB5-8ED0-152CF000B506}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{26A3E295-11AD-4CB5-8ED0-152CF000B506}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{26A3E295-11AD-4CB5-8ED0-152CF000B506}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{26A3E295-11AD-4CB5-8ED0-152CF000B506}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{26A3E295-11AD-4CB5-8ED0-152CF000B506}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2ED153CC-69E2-4F63-AF8E-DC1F6904D099}
+	EndGlobalSection
+EndGlobal

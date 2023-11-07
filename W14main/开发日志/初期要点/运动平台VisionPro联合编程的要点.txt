@@ -1,0 +1,9 @@
+1、回零点
+2、位置测式
+3、X,Y,Z 范围
+4、做一个平台类：  moveXYZ()，moveXYZWait(),OpenAirPump(),ConnectRobot，DisConnectRobot
+                            GetCurrentRobotPose()、 回零点(),位置测式()
+5、界面仿照机械臂界面
+     1、能用滚动条移动
+     2、能使用指定位置移动
+     3、点图像位置自动移动运动平台到指定位置

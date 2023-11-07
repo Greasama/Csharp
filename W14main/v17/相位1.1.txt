@@ -1,0 +1,90 @@
+public bool ReturnZeroAb(bool bFlagNegLimit = false)
+{
+    short sRtn = -1;               // 指令返回值变量
+    int lAxisStatus;               // 轴状态
+    uint clk;
+    int d = 200000;
+
+    int neg = -1000;
+    int startFind = 0;
+
+    // Clear the limit status
+    gts.mc.GT_ClrSts(1, 8);
+
+    // Home search distance
+    search_home = Convert.ToInt32(textBox5.Text);
+
+    while (!bFlagNegLimit)
+    {
+        // Set the motion parameters and move the axis
+        Run(1, d);
+
+        // Check the limit status
+        gts.mc.GT_GetSts(1, out lAxisStatus, 1, out clk);
+
+        if ((lAxisStatus & 0x40) != 0)
+        {
+            return true;
+        }
+        else
+        {
+            neg -= 1000;
+        }
+    }
+
+    bFlagNegLimit = false;
+    MessageBox.Show("到达负限位");
+    gts.mc.GT_ZeroPos(1, 1);   //位置清零
+
+    sRtn += gts.mc.GT_SetCaptureMode(1, gts.mc.CAPTURE_HOME);
+    return false; // You might want to return a value indicating whether capture was set successfully
+}
+
+public void Run(short axis, int position)
+{
+    short sRtn;
+
+    // Set the motion parameters
+    sRtn = gts.mc.GT_PrfTrap(axis);
+
+    // 读取点位模式运动参数
+    sRtn = gts.mc.GT_GetTrapPrm(axis, out trapPrm);
+    trapPrm.acc = 1;
+    trapPrm.dec = 1;
+
+    // 设置点位模式运动参数
+    sRtn = gts.mc.GT_SetTrapPrm(axis, ref trapPrm);
+
+    // 设置点位模式目标速度
+    sRtn = gts.mc.GT_SetVel(axis, 20);
+
+    // 设置点位模式目标位置
+    sRtn = gts.mc.GT_SetPos(axis, position);
+
+    // 启动运动
+    sRtn = gts.mc.GT_Update(1 << (axis - 1));
+}
+
+public short GetStatus(short axis)
+{
+    short sRtn = -1;
+    int lAxisStatus;
+    uint clk;
+
+    sRtn = gts.mc.GT_GetSts(axis, out lAxisStatus, 1, out clk);
+
+    if (sRtn != 0)
+    {
+        return sRtn;
+    }
+
+    bFlagAlarm = (lAxisStatus & (1 << 1)) != 0;
+    bFlagMError = (lAxisStatus & (1 << 4)) != 0;
+
+    bFlagSmoothStop = (lAxisStatus & (1 << 7)) != 0;
+    bFlagAbruptStop = (lAxisStatus & (1 << 8)) != 0;
+    bFlagServoOn = (lAxisStatus & (1 << 9)) != 0;
+    bFlagMotion = (lAxisStatus & (1 << 10)) != 0;
+
+    return 0;
+}

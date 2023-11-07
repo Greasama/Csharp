@@ -1,0 +1,15 @@
+E:\ProgramData\learn\C#\W3D4\bin\Debug\net6.0\W3D4.exe
+E:\ProgramData\learn\C#\W3D4\bin\Debug\net6.0\W3D4.deps.json
+E:\ProgramData\learn\C#\W3D4\bin\Debug\net6.0\W3D4.runtimeconfig.json
+E:\ProgramData\learn\C#\W3D4\bin\Debug\net6.0\W3D4.dll
+E:\ProgramData\learn\C#\W3D4\bin\Debug\net6.0\W3D4.pdb
+E:\ProgramData\learn\C#\W3D4\obj\Debug\net6.0\W3D4.csproj.AssemblyReference.cache
+E:\ProgramData\learn\C#\W3D4\obj\Debug\net6.0\W3D4.GeneratedMSBuildEditorConfig.editorconfig
+E:\ProgramData\learn\C#\W3D4\obj\Debug\net6.0\W3D4.AssemblyInfoInputs.cache
+E:\ProgramData\learn\C#\W3D4\obj\Debug\net6.0\W3D4.AssemblyInfo.cs
+E:\ProgramData\learn\C#\W3D4\obj\Debug\net6.0\W3D4.csproj.CoreCompileInputs.cache
+E:\ProgramData\learn\C#\W3D4\obj\Debug\net6.0\W3D4.dll
+E:\ProgramData\learn\C#\W3D4\obj\Debug\net6.0\refint\W3D4.dll
+E:\ProgramData\learn\C#\W3D4\obj\Debug\net6.0\W3D4.pdb
+E:\ProgramData\learn\C#\W3D4\obj\Debug\net6.0\W3D4.genruntimeconfig.cache
+E:\ProgramData\learn\C#\W3D4\obj\Debug\net6.0\ref\W3D4.dll
