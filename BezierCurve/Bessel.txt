@@ -1,0 +1,31 @@
+function TForm1.fn_Bessel_Lowpass_Third_Order_004(src: array of Double; var dest:
+  array of Double; size: integer): Boolean;
+const
+  cst_Order = 3;
+var
+  xv: array[0..cst_Order] of Double;
+  yv: array[0..cst_Order] of Double;
+  K, i: SmallInt;
+begin
+
+  for K := 0 to cst_Order do
+  begin
+    xv[K] := 0;
+    yv[K] := 0;
+  end;
+  for i := 0 to size - 1 do
+  begin
+    xv[0] := xv[1];
+    xv[1] := xv[2];
+    xv[2] := xv[3];
+    xv[3] := src[i] / (2.711023309e+02);
+    yv[0] := yv[1];
+    yv[1] := yv[2];
+    yv[2] := yv[3];
+    yv[3] := (xv[0] + xv[3]) + 3 * (xv[1] + xv[2]) + (0.4226750651 * yv[0]) + (-
+      1.6550518354 * yv[1]) + (2.2028676179 * yv[2]);
+    dest[i] := yv[3];
+
+  end;
+  Result := True;
+end;
