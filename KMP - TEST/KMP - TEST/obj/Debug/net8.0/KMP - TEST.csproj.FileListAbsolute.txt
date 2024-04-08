@@ -1,0 +1,14 @@
+E:\Reinovo\例程\E.g\C#\KMP - TEST\KMP - TEST\bin\Debug\net8.0\KMP - TEST.exe
+E:\Reinovo\例程\E.g\C#\KMP - TEST\KMP - TEST\bin\Debug\net8.0\KMP - TEST.deps.json
+E:\Reinovo\例程\E.g\C#\KMP - TEST\KMP - TEST\bin\Debug\net8.0\KMP - TEST.runtimeconfig.json
+E:\Reinovo\例程\E.g\C#\KMP - TEST\KMP - TEST\bin\Debug\net8.0\KMP - TEST.dll
+E:\Reinovo\例程\E.g\C#\KMP - TEST\KMP - TEST\bin\Debug\net8.0\KMP - TEST.pdb
+E:\Reinovo\例程\E.g\C#\KMP - TEST\KMP - TEST\obj\Debug\net8.0\KMP - TEST.GeneratedMSBuildEditorConfig.editorconfig
+E:\Reinovo\例程\E.g\C#\KMP - TEST\KMP - TEST\obj\Debug\net8.0\KMP - TEST.AssemblyInfoInputs.cache
+E:\Reinovo\例程\E.g\C#\KMP - TEST\KMP - TEST\obj\Debug\net8.0\KMP - TEST.AssemblyInfo.cs
+E:\Reinovo\例程\E.g\C#\KMP - TEST\KMP - TEST\obj\Debug\net8.0\KMP - TEST.csproj.CoreCompileInputs.cache
+E:\Reinovo\例程\E.g\C#\KMP - TEST\KMP - TEST\obj\Debug\net8.0\KMP - TEST.dll
+E:\Reinovo\例程\E.g\C#\KMP - TEST\KMP - TEST\obj\Debug\net8.0\refint\KMP - TEST.dll
+E:\Reinovo\例程\E.g\C#\KMP - TEST\KMP - TEST\obj\Debug\net8.0\KMP - TEST.pdb
+E:\Reinovo\例程\E.g\C#\KMP - TEST\KMP - TEST\obj\Debug\net8.0\KMP - TEST.genruntimeconfig.cache
+E:\Reinovo\例程\E.g\C#\KMP - TEST\KMP - TEST\obj\Debug\net8.0\ref\KMP - TEST.dll
